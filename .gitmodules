@@ -1,0 +1,7 @@
+[submodule "docs/styles/w3css"]
+	path = docs/styles/w3css
+	url = https://github.com/xinetzone/w3css
+
+[submodule "docs/images"]
+	path = docs/images
+	url = https://github.com/xinetzone/images
